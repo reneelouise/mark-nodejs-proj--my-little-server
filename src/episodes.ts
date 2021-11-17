@@ -3,6 +3,8 @@ interface Episode {
   writers: string[];
 }
 
+
+
 export const seasonOneEpisodes: Episode[] = [
   {
     title: "Friendship Is Magic (Part 1)",
@@ -45,3 +47,6 @@ export const seasonOneEpisodes: Episode[] = [
     writers: ["M.A. Larson"],
   },
 ];
+
+
+
